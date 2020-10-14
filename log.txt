@@ -1,0 +1,2 @@
+This is just a log text file.
+This is made for the other branch.
